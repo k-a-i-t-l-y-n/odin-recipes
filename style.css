@@ -1,0 +1,37 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: #f3eae8;
+}  
+
+ul, ol{
+    line-height: 2em;
+    font-size: 12px;
+} 
+
+ol{
+    font-size: 14px;
+}
+
+img{
+    width: 300px;
+    height: auto;
+}
+
+.main{
+    background-color: #ffd14f;
+    font-family: Garamond, Times, serif;
+    font-size: 40px;
+    text-align: center;
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+.nav{
+    font-size: 36px;
+}
+
+.nav:hover{
+    color: #ffffff;
+}
+
